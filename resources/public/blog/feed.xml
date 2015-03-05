@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://blog.cran.io' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+CRAN.IO Blog
+</title>
+<link>
+http://blog.cran.io
+</link>
+<description>
+Best practices used by CRAN.IO developers
+</description>
+<lastBuildDate>
+Wed, 04 Mar 2015 22:45:05 -0300
+</lastBuildDate>
+<author>
+Bob Bobbert
+</author>
+<item>
+<guid>
+http://blog.cran.io/blog/posts/04-03-2015-first-post.html
+</guid>
+<link>
+http://blog.cran.io/blog/posts/04-03-2015-first-post.html
+</link>
+<title>
+Hello world!
+</title>
+<description>
+&lt;p&gt;Hello Earthlings! Welcome to our blog. Here you will find articles about the best practices that we implement in &lt;a href='http://cran.io'&gt;CRAN.IO&lt;/a&gt;, the technologies that we use and the projects that we are working on.&lt;/p&gt;&lt;p&gt;If you want to know more about us you can visit our &lt;a href='http://cran.io'&gt;website&lt;/a&gt;, follow us on &lt;a href='https://twitter.com/cran&amp;#95;io'&gt;twitter&lt;/a&gt; or like us on &lt;a href='https://www.facebook.com/be.cran.io'&gt;facebook&lt;/a&gt;.&lt;/p&gt;
+</description>
+<pubDate>
+Wed, 04 Mar 2015 00:00:00 -0300
+</pubDate>
+<author>
+Bob Bobbert
+</author>
+</item>
+</channel>
+</rss>
